@@ -45,6 +45,11 @@
             <artifactId>spring-boot-starter-test</artifactId>
             <scope>test</scope>
         </dependency>
+        <dependency>
+            <groupId>com.shekhargulati.starters.ngboot</groupId>
+            <artifactId>frontend</artifactId>
+            <version> 0.2.0-SNAPSHOT</version>
+        </dependency>
     </dependencies>
 
     <build>
